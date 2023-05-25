@@ -1,0 +1,63 @@
+body{
+    background-color: #e9e5e5;
+}
+/* 顶上三个 */
+.icon{
+    margin-left: 70%;
+    width: 142px;
+    padding: 10%;
+}
+.search{
+    padding: 10%;
+}
+.download{
+    width: 20%;
+    height: auto;
+    padding-top: 5%;
+}
+
+/* 商品列 */
+#flow img{
+    margin: 10%;
+    padding: 5%;
+    width: 50%;
+    height: auto;
+}
+#flow li{
+    list-style: none;
+}
+
+
+
+.lunbotu{
+    display: flex;
+}
+/* 轮播图 */
+.layui-carousel{
+    margin: 5%;
+}
+
+.layui-carousel img
+{
+    width:720px;    
+}
+
+/* 用户 */
+.user{
+    margin: 3%;
+    padding-top: 10%;
+}
+.user-choice{
+    padding: 1px;
+    margin: 1px;
+}
+.user img{
+    width: 198px;
+}
+
+/* 商品内容 */
+.context{
+    background-color: aliceblue;
+    margin: 5%;
+    padding: 5%;
+}

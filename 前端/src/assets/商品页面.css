@@ -1,0 +1,29 @@
+body{
+    background-color: #e9e5e5;
+}
+/* 顶上三个 */
+.icon{
+    margin-left: 70%;
+    width: 142px;
+    padding: 10%;
+}
+.search{
+    padding: 10%;
+}
+.download{
+    width: 20%;
+    height: auto;
+    padding-top: 5%;
+}
+
+/* 商品 */
+.shangpin-img{
+    margin: 5%;
+}
+.shangpin-img img{
+    width: 100%;
+}
+.shangpin-detail{
+    margin: 5%;
+    letter-spacing: 10px;
+}
